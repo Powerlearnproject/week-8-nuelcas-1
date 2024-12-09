@@ -50,3 +50,7 @@ Select a Sustainable Development Goal (SDG) that resonates with you and develop 
 - Integration documentation
 - Pitch deck presentation (Provide the link e.g Canva or Gamma in your documentation)
 
+
+Excel Analysis: https://docs.google.com/spreadsheets/d/1--2SoRKdCSCtxZ2r8Mbo20Eh4RFriXWW8se2Ab_2nBI/edit?gid=565481052#gid=565481052
+Pitch Dech Link: https://gamma.app/docs/3hux7sr9q3a2vn6?following_id=5grdmd8zg8te9q5&follow_on_start=true
+
